@@ -130,6 +130,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) - Deep gaussian process for crop yield prediction based on remote sensing data.
 - [Deep Learning for Biologists with Keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) - Tutorials for deep learning based analysis (mainly) on biological relavent themes.
 - [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
+- [HealthyCropping](https://github.com/keylorpineda/healthycropping) - Offline-first crop disease diagnosis application for Android using on-device computer vision.
 - [PlantCV](https://github.com/danforthcenter/plantcv) - Plant phenotyping software using computer vision.
 
 ## Remote Sensing and Imagery
